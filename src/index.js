@@ -147,7 +147,7 @@ class Root extends Component {
                         <Route path="/product-details13" component={ Product_Details13} />
                         <Route path="/our-projects" component={Product_Details31} />
                         <Route path="/SpecksDesk" component={ Product_Details15} />
-                        <Route path="/Gaming Room" component={ Product_Details16} />
+                        <Route path="/GamingRoom" component={ Product_Details16} />
                         <Route path="/Earthessence" component={ Product_Details17} />
                         <Route path="/Sky" component={ Product_Details18} />
                         <Route path="/Terra" component={ Product_Details19} />

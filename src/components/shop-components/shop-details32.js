@@ -108,11 +108,11 @@ class ShopDetails32 extends Component {
 			  <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/Gaming Room"><img src={publicUrl+"assets/img/Allimgs/Picture34.webp"} alt="#" /></Link>
+		            <Link to="/GamingRoom"><img src={publicUrl+"assets/img/Allimgs/Picture34.webp"} alt="#" /></Link>
 		          </div>
 		          {/* <div className="ltn__blog-brief"> */}
 		           
-		            <h3 className="ltn__blog-title mt-10"  id='productText'><Link to="/Gaming Room">Gaming Room</Link></h3>
+		            <h3 className="ltn__blog-title mt-10"  id='productText'><Link to="/GamingRoom">GamingRoom</Link></h3>
 		          
 		          {/* </div> */}
 		        </div>

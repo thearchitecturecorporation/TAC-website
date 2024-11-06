@@ -20,7 +20,7 @@ class AboutV2 extends Component {
 						<h6 className="section-subtitle section-subtitle-2 ltn__secondary-color" id='responsive-text-project-title' style={{width:'200px',textAlign:'center'}}>Our Story</h6>
 						{/* <div className="slide-brief animated"> */}
 				                    
-									<p id='responsive-text-project-title' className='animated'>In 2020, amidst the challenges posed by the peak of the pandemic, we embarked on our first pilot project, etching a significant chapter in our journey, our mission was to craft a gaming room within a basement.</p>
+									<p id='responsive-text-project-title' className='animated'>In 2020, amidst the challenges posed by the peak of the pandemic, we embarked on our first pilot project, etching a significant chapter in our journey, our mission was to craft a GamingRoom within a basement.</p>
 								  
 								  {/* </div> */}
 			          </div>

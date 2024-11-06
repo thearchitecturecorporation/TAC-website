@@ -33,7 +33,7 @@ class AboutV4 extends Component {
 
 						<h6 className="section-subtitle section-subtitle-2 ltn__secondary-color">Our story </h6>
 						<div className="slide-brief animated">
-				                    <p>In 2020, amidst the challenges posed by the peak of the pandemic, we embarked on our first pilot project, etching a significant chapter in our journey, our mission was to craft a gaming room within a  basement.</p>
+				                    <p>In 2020, amidst the challenges posed by the peak of the pandemic, we embarked on our first pilot project, etching a significant chapter in our journey, our mission was to craft a GamingRoom within a  basement.</p>
 									<p> We’ve come a long way since then, turning into a renaissance person- We've undertaken projects for home interior design, including 1.5 BHK, 2 BHK, 3 BHK, and 4 BHK residences, as well as residential home design, retail store design, jewelry store design, farmhouse design, landscape design, hospital design, educational institution design, hotel design, office design, and high-rise design for both commercial and residential purposes. Additionally, we've handled layout design, mall design, and luxury interior design, all of which embody contemporary and timeless aesthetics.</p>
 				                  </div>
 						<p  id='responsive-text-project-title'></p>
