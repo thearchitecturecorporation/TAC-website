@@ -59,11 +59,11 @@ class OurProjects extends Component {
 			  <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details10"><img src={publicUrl+"assets/img/Allimgs/41.jpg"} alt="#"  /></Link>
+		            <Link to="/HospitalitySuite"><img src={publicUrl+"assets/img/Allimgs/41.jpg"} alt="#"  /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		          
-		            <h3 className="ltn__blog-title"><Link to="/product-details10">Hospitality - Suite</Link></h3>
+		            <h3 className="ltn__blog-title"><Link to="/HospitalitySuite">Hospitality - Suite</Link></h3>
 		          
 		          </div>
 		        </div>
@@ -174,11 +174,11 @@ class OurProjects extends Component {
 			  <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details4"><img src={publicUrl+"assets/img/Allimgs/17.png"} alt="#" /></Link>
+		            <Link to="/Lshaped"><img src={publicUrl+"assets/img/Allimgs/17.png"} alt="#" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		           
-		            <h3 className="ltn__blog-title"><Link to="/product-details4">L shaped </Link></h3>
+		            <h3 className="ltn__blog-title"><Link to="/Lshaped">L shaped </Link></h3>
 		            
 		          </div>
 		        </div>
@@ -257,11 +257,11 @@ class OurProjects extends Component {
 		      <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details13"><img src={publicUrl+"assets/img/Allimgs/48.jpg"} alt="#" /></Link>
+		            <Link to="/LayoutDesign"><img src={publicUrl+"assets/img/Allimgs/48.jpg"} alt="#" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		           
-		            <h3 className="ltn__blog-title"><Link to="/product-details13">Layout Design </Link></h3>
+		            <h3 className="ltn__blog-title"><Link to="/LayoutDesign">Layout Design </Link></h3>
 		            
 		          </div>
 		        </div>
@@ -270,11 +270,11 @@ class OurProjects extends Component {
 			  <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details11"><img src={publicUrl+"assets/img/Allimgs/52 - Copy.jpg"} alt="#" /></Link>
+		            <Link to="/Mall"><img src={publicUrl+"assets/img/Allimgs/52 - Copy.jpg"} alt="#" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		           
-		            <h3 className="ltn__blog-title"><Link to="/product-details11"> Mall</Link></h3>
+		            <h3 className="ltn__blog-title"><Link to="/Mall"> Mall</Link></h3>
 		            
 		          </div>
 		        </div>
@@ -283,11 +283,11 @@ class OurProjects extends Component {
 		      <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details12"><img src={publicUrl+"assets/img/Allimgs/45.jpg"} alt="#" /></Link>
+		            <Link to="/University"><img src={publicUrl+"assets/img/Allimgs/45.jpg"} alt="#" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		            
-		            <h3 className="ltn__blog-title"><Link to="/product-details12">Fathers Mullers University</Link></h3>
+		            <h3 className="ltn__blog-title"><Link to="/University">Fathers Mullers University</Link></h3>
 		          
 		          </div>
 		        </div>
@@ -300,11 +300,11 @@ class OurProjects extends Component {
 		      <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details5"><img src={publicUrl+"assets/img/Allimgs/20.png"} alt="#" /></Link>
+		            <Link to="/OpulentLiv-In"><img src={publicUrl+"assets/img/Allimgs/20.png"} alt="#" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		          
-		            <h3 className="ltn__blog-title"><Link to="/product-details5">Opulent 
+		            <h3 className="ltn__blog-title"><Link to="/OpulentLiv-In">Opulent 
 Liv-In</Link></h3>
 		            
 		          </div>
@@ -314,11 +314,11 @@ Liv-In</Link></h3>
 		      <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details6"><img src={publicUrl+"assets/img/Allimgs/23.png"} alt="#" /></Link>
+		            <Link to="/TheEstate"><img src={publicUrl+"assets/img/Allimgs/23.png"} alt="#" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		           
-		            <h3 className="ltn__blog-title"><Link to="/product-details6"> The Estate</Link></h3>
+		            <h3 className="ltn__blog-title"><Link to="/TheEstate"> The Estate</Link></h3>
 		          
 		          </div>
 		        </div>
@@ -326,11 +326,11 @@ Liv-In</Link></h3>
 		      <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details7"><img src={publicUrl+"assets/img/Allimgs/26.png"} alt="#" /></Link>
+		            <Link to="/TheDual"><img src={publicUrl+"assets/img/Allimgs/26.png"} alt="#" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		           
-		            <h3 className="ltn__blog-title"><Link to="/product-details7">  The Dual</Link></h3>
+		            <h3 className="ltn__blog-title"><Link to="/TheDual">  The Dual</Link></h3>
 		           
 		          </div>
 		        </div>
@@ -351,11 +351,11 @@ Liv-In</Link></h3>
 			  <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details8"><img src={publicUrl+"assets/img/Allimgs/30.png"} alt="#" /></Link>
+		            <Link to="/Nova"><img src={publicUrl+"assets/img/Allimgs/30.png"} alt="#" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		           
-		            <h3 className="ltn__blog-title"><Link to="/product-details8">Nova</Link></h3>
+		            <h3 className="ltn__blog-title"><Link to="/Nova">Nova</Link></h3>
 		          
 		          </div>
 		        </div>
@@ -364,11 +364,11 @@ Liv-In</Link></h3>
 		      <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details9"><img src={publicUrl+"assets/img/Allimgs/61.jpg"} alt="#" /></Link>
+		            <Link to="/Mannarkkad-Residence"><img src={publicUrl+"assets/img/Allimgs/61.jpg"} alt="#" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		           
-		            <h3 className="ltn__blog-title"><Link to="/product-details9"> Mannarkkad residence,Kerala</Link></h3>
+		            <h3 className="ltn__blog-title"><Link to="/Mannarkkad-Residence"> Mannarkkad residence,Kerala</Link></h3>
 		          
 		          </div>
 		        </div>

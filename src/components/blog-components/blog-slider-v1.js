@@ -31,11 +31,11 @@ class BlogSlider extends Component {
 			  <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details10"><img src={publicUrl+"assets/img/Allimgs/Rohan Suite.webp"} alt="#"  style={{objectFit:'cover'}}/></Link>
+		            <Link to="/HospitalitySuite"><img src={publicUrl+"assets/img/Allimgs/Rohan Suite.webp"} alt="#"  style={{objectFit:'cover'}}/></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		           
-		            <h3 className="ltn__blog-title" id='productText'><Link to="/product-details10">Hospitality - Suite</Link></h3>
+		            <h3 className="ltn__blog-title" id='productText'><Link to="/HospitalitySuite">Hospitality - Suite</Link></h3>
 		            
 		          </div>
 		        </div>
@@ -77,11 +77,11 @@ class BlogSlider extends Component {
 			  <div className="col-lg-4" >
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details13"><img src={publicUrl+"assets/img/Allimgs/Rohan Hills.webp"} alt="#" /></Link>
+		            <Link to="/LayoutDesign"><img src={publicUrl+"assets/img/Allimgs/Rohan Hills.webp"} alt="#" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		          
-		            <h3 className="ltn__blog-title" id='productText'><Link to="/product-details13">Layout Design </Link></h3>
+		            <h3 className="ltn__blog-title" id='productText'><Link to="/LayoutDesign">Layout Design </Link></h3>
 		          
 		          </div>
 		        </div>
@@ -338,11 +338,11 @@ Liv-In</Link></h3>
 			  <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details10"><img src={publicUrl+"assets/img/Allimgs/Rohan Suite.webp"} alt="#"  style={{objectFit:'cover'}}/></Link>
+		            <Link to="/HospitalitySuite"><img src={publicUrl+"assets/img/Allimgs/Rohan Suite.webp"} alt="#"  style={{objectFit:'cover'}}/></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		           
-		            <h3 className="ltn__blog-title" id='productText'><Link to="/product-details10">Hospitality - Suite</Link></h3>
+		            <h3 className="ltn__blog-title" id='productText'><Link to="/HospitalitySuite">Hospitality - Suite</Link></h3>
 		            
 		          </div>
 		        </div>
@@ -384,11 +384,11 @@ Liv-In</Link></h3>
 			  <div className="col-lg-4" >
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/product-details13"><img src={publicUrl+"assets/img/Allimgs/Rohan Hills.webp"} alt="#" /></Link>
+		            <Link to="/LayoutDesign"><img src={publicUrl+"assets/img/Allimgs/Rohan Hills.webp"} alt="#" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		          
-		            <h3 className="ltn__blog-title" id='productText'><Link to="/product-details13">Layout Design </Link></h3>
+		            <h3 className="ltn__blog-title" id='productText'><Link to="/LayoutDesign">Layout Design </Link></h3>
 		          
 		          </div>
 		        </div>

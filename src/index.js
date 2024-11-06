@@ -135,16 +135,16 @@ class Root extends Component {
                         <Route path="/history" component={ History } />
                         <Route path="/product-details1" component={ Product_Details1} />
                         <Route path="/product-details1" component={ Product_Details1} />
-                        <Route path="/product-details4" component={ Product_Details4} />
-                        <Route path="/product-details5" component={ Product_Details5} />
-                        <Route path="/product-details6" component={ Product_Details6} />
-                        <Route path="/product-details7" component={ Product_Details7} />
-                        <Route path="/product-details8" component={ Product_Details8} />
-                        <Route path="/product-details9" component={ Product_Details9} />
-                        <Route path="/product-details10" component={ Product_Details10} />
-                        <Route path="/product-details11" component={ Product_Details11} />
-                        <Route path="/product-details12" component={ Product_Details12} />
-                        <Route path="/product-details13" component={ Product_Details13} />
+                        <Route path="/Lshaped" component={ Product_Details4} />
+                        <Route path="/OpulentLiv-In" component={ Product_Details5} />
+                        <Route path="/TheEstate" component={ Product_Details6} />
+                        <Route path="/TheDual" component={ Product_Details7} />
+                        <Route path="/Nova" component={ Product_Details8} />
+                        <Route path="/Mannarkkad-Residence" component={ Product_Details9} />
+                        <Route path="/HospitalitySuite" component={ Product_Details10} />
+                        <Route path="/Mall" component={ Product_Details11} />
+                        <Route path="/University" component={ Product_Details12} />
+                        <Route path="/LayoutDesign" component={ Product_Details13} />
                         <Route path="/our-projects" component={Product_Details31} />
                         <Route path="/SpecksDesk" component={ Product_Details15} />
                         <Route path="/GamingRoom" component={ Product_Details16} />
