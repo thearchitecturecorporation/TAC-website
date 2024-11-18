@@ -18,6 +18,17 @@
     "react-snap": "^1.23.0",
     "wowjs": "^1.1.3"
   },
+  "reactSnap": {
+  "puppeteerArgs": ["--no-sandbox"],
+  "fixWebpackChunksIssue": true,
+  "removeStyleTags": false,
+  "inlineCss": false,
+  "removeBlobs": false,
+  "skipThirdPartyRequests": true,
+  "preconnectThirdParty": false,
+  "normalizeTrailingSlash": false
+},
+
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
