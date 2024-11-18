@@ -1,4 +1,4 @@
 
 User-agent: *
 Disallow: 
-https://thearchitecturecorporation.com/sitemap.xml
+Sitemap:https://thearchitecturecorporation.com/sitemap.xml
