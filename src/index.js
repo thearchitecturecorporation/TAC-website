@@ -80,6 +80,7 @@ import Product_Details30 from './components/product-details30';
 import Product_Details31 from './components/product-details31';
 import Product_Details32 from './components/product-details32';
 import Product_Details33 from './components/product-details33';
+import { Redirect } from 'react-router-dom/cjs/react-router-dom.min';
 class Root extends Component {
     render() {
         return(
