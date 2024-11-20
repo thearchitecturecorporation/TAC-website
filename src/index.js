@@ -80,16 +80,14 @@ import Product_Details30 from './components/product-details30';
 import Product_Details31 from './components/product-details31';
 import Product_Details32 from './components/product-details32';
 import Product_Details33 from './components/product-details33';
-import { Redirect } from 'react-router-dom/cjs/react-router-dom.min';
 class Root extends Component {
     render() {
         return(
                 <Router  basename="/">
 	                <div>
 	                <Switch>
-                    <Redirect from="*" to="/" />
 	                    <Route exact path="/" component={HomeV2} />
-                        <Route exact path="/home" component={HomeV2} />
+                        <Route path="/home" component={HomeV2} />
                         <Route path="/home-v3" component={HomeV3} />
                         <Route path="/home-v4" component={HomeV4} />
                         <Route path="/home-v5" component={HomeV5} />
