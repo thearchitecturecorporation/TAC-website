@@ -26,12 +26,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "reactSnap": {
-    "disableRuntime": true,
-    "inlineCss": true,
-    "crawl": true,
-    "removeStyleTags": false
-  },
+  
   "eslintConfig": {
     "extends": "react-app"
   },
