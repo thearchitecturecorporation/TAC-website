@@ -86,6 +86,7 @@ class Root extends Component {
                 <Router  basename="/">
 	                <div>
 	                <Switch>
+                    <Redirect from="*" to="/" />
 	                    <Route exact path="/" component={HomeV2} />
                         <Route exact path="/home" component={HomeV2} />
                         <Route path="/home-v3" component={HomeV3} />
