@@ -34,6 +34,12 @@
       );
 
     </script>
+    <script>
+      if (document.location.pathname !== "/") {
+          const path = document.location.pathname;
+          document.location.href = `/#${path}`;
+      }
+  </script>
   </head>
   <body>
   </body>
