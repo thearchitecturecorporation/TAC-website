@@ -22,7 +22,7 @@
       // https://username.github.io/repo-name/one/two?a=b&c=d#qwe becomes
       // https://username.github.io/repo-name/?/one/two&a=b~and~c=d#qwe
       // Otherwise, leave pathSegmentsToKeep as 0.
-      var pathSegmentsToKeep = 1;
+      var pathSegmentsToKeep = 0;
 
       var l = window.location;
       l.replace(
@@ -36,5 +36,19 @@
     </script>
   </head>
   <body>
-  </body>
+
+    <!-- <div class="quarter-overlay">
+        <div class="cv-spinner">
+            <span class="spinner"></span>
+        </div>
+    </div> -->
+
+    <div class="page-wrapper">
+      <div id="quarter"></div>
+  </div>
+  
+    <script src="%PUBLIC_URL%/assets/js/plugins.js"></script>
+    
+
+</body>
 </html>
