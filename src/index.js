@@ -86,7 +86,7 @@ if (window.location.pathname.endsWith("/") && window.location.pathname !== "/") 
 class Root extends Component {
     render() {
         return(
-                <Router  basename="/">
+                <Router  >
 	                <div>
 	                <Switch>
 	                    <Route exact path="/" component={HomeV2} />
