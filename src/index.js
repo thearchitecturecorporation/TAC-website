@@ -80,11 +80,6 @@ import Product_Details30 from './components/product-details30';
 import Product_Details31 from './components/product-details31';
 import Product_Details32 from './components/product-details32';
 import Product_Details33 from './components/product-details33';
-if (window.location.pathname !== "/" && window.location.pathname.endsWith("/")) {
-    window.location.replace(window.location.pathname.slice(0, -1) + window.location.search);
-  } else if (window.location.pathname === "/" && window.location.search !== "") {
-    window.location.replace(window.location.pathname + window.location.search);
-  }
 class Root extends Component {
     render() {
         return(
