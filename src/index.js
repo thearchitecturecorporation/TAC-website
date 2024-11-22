@@ -83,7 +83,7 @@ import Product_Details33 from './components/product-details33';
 class Root extends Component {
     render() {
         return(
-                <Router  basename="/thearchitecturecorporation.com">
+                <Router  basename="/">
 	                <div>
 	                <Switch>
 	                    <Route exact path="/" component={HomeV2} />
