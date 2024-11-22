@@ -27,11 +27,6 @@
     "eject": "react-scripts eject"
   },
   
-  "reactSnap": {
-    "inlineCss": true,
-    "puppeteerArgs": ["--no-sandbox"],
-    "routes": ["/", "/about", "/contact"]
-},
   "eslintConfig": {
     "extends": "react-app"
   },
