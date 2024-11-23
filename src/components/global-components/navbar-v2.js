@@ -81,7 +81,7 @@ class NavbarV2 extends Component {
 								<ul style={{display:'flex',justifyContent:'center'}}>
 								<li><Link to="/home" >Home</Link></li>
 								<li><Link to="/about">About</Link></li>
-								<li ><a href="/our-projects">Projects</a>
+								<li ><Link to="/our-projects">Projects</Link>
 									{/* <ul>
 										<li><Link to="/Architecture">Architecture Designs</Link></li>
 										<li><Link to="/Commercial">Commercial Interior Design</Link></li>
