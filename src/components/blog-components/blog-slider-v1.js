@@ -107,7 +107,7 @@ class BlogSlider extends Component {
 			  <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/GamingRoom"><img src={publicUrl+"assets/img/Allimgs/The GamingRoom.webp"} alt="#" /></Link>
+		            <Link to="/GamingRoom"><img src={publicUrl+"assets/img/Allimgs/The Gaming Room.webp"} alt="img" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		            
@@ -414,7 +414,7 @@ Liv-In</Link></h3>
 			  <div className="col-lg-4">
 		        <div className="ltn__blog-item ltn__blog-item-3">
 		          <div className="ltn__blog-img">
-		            <Link to="/GamingRoom"><img src={publicUrl+"assets/img/Allimgs/The GamingRoom.webp"} alt="#" /></Link>
+		            <Link to="/GamingRoom"><img src={publicUrl+"assets/img/Allimgs/The Gaming Room.webp"} alt="#" /></Link>
 		          </div>
 		          <div className="ltn__blog-brief">
 		            

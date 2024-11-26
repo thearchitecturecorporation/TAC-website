@@ -15,6 +15,7 @@ class ShopDetails32 extends Component {
 					<div className="ltn__shop-options">
 						<ul>
 						<li>
+							
 							<div className="ltn__grid-list-tab-menu ">
 							<div className="ltn__tab-menu ltn__tab-menu-3 ltn__tab-menu-top-right-- text-uppercase--- text-center---" >
 							<div className="nav" id='responsive-text-project-heading'>
@@ -26,6 +27,7 @@ class ShopDetails32 extends Component {
 								<Link  to='/Interior' className="active show" style={{color:'#082A9D'}}> Interior Design</Link>
 								{/* <a data-bs-toggle="tab" href="#liton_product_list"><i className="fas fa-list" /></a> */}
 							</div>
+							
 							</div>
 							</div>
 						</li>
