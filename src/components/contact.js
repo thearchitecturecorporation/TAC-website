@@ -8,9 +8,13 @@ import Footer from './global-components/footer';
 import NavbarV2 from './global-components/navbar-v2';
 import Pagefooter from './global-components/page-footer';
 import Contactnav from './global-components/navbar-contact';
+import { Helmet } from 'react-helmet';
 
 const ContactV1 = () => {
     return <div>
+           <Helmet>
+        <link rel="canonical" href='https://thearchitecturecorporation.com/contact/' />
+      </Helmet>
         <Contactnav />
         <Pagefooter headertitle="Say hello." subheader="Contact"  />
         <ContactInfo />

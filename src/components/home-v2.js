@@ -27,9 +27,13 @@ import WelcomeCard from './WelcomeCard';
 import Imgslider from './Imgslider';
 import ImageBanner from './ImageBanner';
 import BannerV3 from './section-components/banner-v3';
+import { Helmet } from 'react-helmet';
 
 const Home_V2 = () => {
     return <div>
+           <Helmet>
+        <link rel="canonical" href='https://thearchitecturecorporation.com/home/' />
+      </Helmet>
         <Navbar />
         {/* <Mainpage/> */}
         <HomePage/>

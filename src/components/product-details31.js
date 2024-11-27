@@ -23,9 +23,13 @@ import ShopDetails25 from './shop-components/shop-details25';
 import ShopDetails26 from './shop-components/shop-details26';
 import ShopDetails30 from './shop-components/shop-details30';
 import ShopDetails31 from './shop-components/shop-details31';
+import { Helmet } from 'react-helmet';
 
 const Product_Details31 = () => {
     return <div>
+           <Helmet>
+        <link rel="canonical" href='https://thearchitecturecorporation.com/our-projects/' />
+      </Helmet>
         <NavbarV2 />
         <PageHeader headertitle="Our Projects"  customclass="mb-0" />
         {/* <ProductSliderV115/> */}
