@@ -10,11 +10,15 @@ import Footer from './global-components/footer';
 import NavbarV2 from './global-components/navbar-v2';
 import TeamDetails from './section-components/team-details';
 import AboutV2 from './section-components/about-v2';
+import { Helmet } from 'react-helmet';
 
 
 
 const About_v1 = () => {
     return <div>
+         <Helmet>
+        <link rel="canonical" href='https://thearchitecturecorporation.com/about/' />
+      </Helmet>
         <NavbarV2/>
         <PageHeader headertitle="About Us" />
         {/* <AboutV4 /> */}
